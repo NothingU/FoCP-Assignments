@@ -1,4 +1,4 @@
-## Computer Programming Portfolio
+## WEEKLY TASK PORTFOLIO
 
 ### Overview
 This is my programming portfolio for the Computer Programming course at Leeds Beckett University. It shows how I progressed and achieved throughout the term. I have done different programming activities and assignments, showing that I can understand and apply procedural programming ideas and write working computer programs using Python 3. In this portfolio, you will see how I learned and improved, as shown in the weekly tasks, three programming tasks (Task1, Task2, Task3). The README.md file explains how I think, solve problems, and make decisions when I create various programming solutions.
